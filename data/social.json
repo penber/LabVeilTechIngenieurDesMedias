@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/penber",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/raey-assefa-965a87170/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
